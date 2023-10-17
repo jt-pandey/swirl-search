@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#COMMENT
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'swirl_server.settings')
